@@ -1,4 +1,4 @@
-/* General Reset */
+
 * {
     margin: 0;
     padding: 0;
@@ -28,7 +28,8 @@ body {
     background-color: #2a003f;
     color: #fff;
     padding: 1rem 2rem;
-    position: sticky;
+    
+    justify-content: space-between;
     top: 0;
     z-index: 1000;
 }
